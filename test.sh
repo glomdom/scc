@@ -23,7 +23,9 @@ try 42 42
 try 20 20
 try 21 "5+20-4"
 try 20 "4-4+20"
-try 20 " 4 - 4 +   20 "
-try 48 "20  + 20  -  4 +  4      + 8 "
+try 41 " 12 + 34 - 5 "
+try 47 "5+6*7"
+try 15 "5*(9-6)"
+try 4 "(3+5)/2"
 
 echo test.sh: success: all tests passed
